@@ -1,6 +1,8 @@
 # coint_maki
 Maki (2012) cointegration test with multiple structural breaks Use coint_maki (makicoint) With (In) R Software
 
+https://www.youtube.com/watch?v=FkRuN8cgor8
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
